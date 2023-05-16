@@ -1,1 +1,3 @@
-# visualTools
+- [页面可视化搭建工具前生今世_Data_组件化_动态](https://www.sohu.com/a/552733443_121124378)
+- [https://developer.aliyun.com/article/918517](https://developer.aliyun.com/article/918517)
+- [京东mpm](https://cloud.tencent.com/developer/article/1612753)
