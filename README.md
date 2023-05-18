@@ -2,3 +2,4 @@
 - [https://developer.aliyun.com/article/918517](https://developer.aliyun.com/article/918517)
 - [京东mpm](https://cloud.tencent.com/developer/article/1612753)
 - [知乎「快页面」动态配置化页面渲染器原理介绍](https://zhuanlan.zhihu.com/p/100708653)
+- [阿里低代码引擎](https://lowcode-engine.cn/site/docs/guide/expand/runtime/renderer)
