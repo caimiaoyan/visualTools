@@ -5,3 +5,4 @@
 - [MPM 卖场可视化搭建系统 — 数据模型设计](https://cloud.tencent.com/developer/article/1612753)
 - [知乎「快页面」动态配置化页面渲染器原理介绍](https://zhuanlan.zhihu.com/p/100708653)
 - [阿里低代码引擎](https://lowcode-engine.cn/site/docs/guide/expand/runtime/renderer)
+- [amis可视化](https://aisuda.github.io/amis-editor-demo/#/edit/0)
