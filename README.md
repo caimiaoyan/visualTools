@@ -7,3 +7,4 @@
 - [阿里低代码引擎](https://lowcode-engine.cn/site/docs/guide/expand/runtime/renderer)
 - [amis可视化](https://aisuda.github.io/amis-editor-demo/#/edit/0)
 - [爱速搭](https://aisuda.bce.baidu.com/aisuda-docs/%E9%A1%B5%E9%9D%A2%E8%AE%BE%E8%AE%A1/%E7%AE%80%E4%BB%8B)
+- [使用 React-DnD 打造简易低代码平台](https://developer.aliyun.com/article/974358)
